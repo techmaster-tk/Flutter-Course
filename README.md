@@ -32,6 +32,7 @@
 
 ## Phần 4: Xây dựng giao diện cơ bản
 
+* [Flutter Widget cheatsheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 * [*Slide bài giảng*](https://drive.google.com)
 * [*Source code*](https://github.com)
 
