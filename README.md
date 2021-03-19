@@ -16,7 +16,6 @@
 * [Basic Dart](https://dart.dev/guides/language/language-tour)
 * [Dart cheat sheet](https://docs.google.com/document/d/174fDn-NGAqOffqyhUjAv5lbAVCh6hGFnEteRRAmKWkY/edit?usp=sharing)
 * [Slide 1](https://docs.google.com/presentation/d/1VH8F_HB2-XL6ZEIrwR6Lc0QffIUeRco4SKKMNHJz4-w/edit?usp=sharing)
-* [Source code](https://github.com)
 
 ## Phần 3: Chương trình đầu tiên
 
