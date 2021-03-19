@@ -12,6 +12,7 @@
 ## Phần 2: Cơ bản về ngôn ngữ Dart
 
 * [Dart Pad](https://dartpad.dev/)
+* [Basic Dart](https://dart.dev/guides/language/language-tour)
 * [*Dart cheat sheet*](https://docs.google.com/document/d/174fDn-NGAqOffqyhUjAv5lbAVCh6hGFnEteRRAmKWkY/edit?usp=sharing)
 * [*Slide bài giảng*](https://drive.google.com)
 * [*Source code*](https://github.com)
